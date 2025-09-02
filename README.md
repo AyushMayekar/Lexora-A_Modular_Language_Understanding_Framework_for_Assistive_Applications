@@ -31,7 +31,7 @@ Lexora is a lightweight, modular NLP (Natural Language Processing) system design
 
    ```sh
    git clone https://github.com/AyushMayekar/Lexora-A_Modular_Language_Understanding_Framework_for_Assistive_Applications
-````
+   ```
 
 2. **Install dependencies**:
 
@@ -55,11 +55,10 @@ Lexora is a lightweight, modular NLP (Natural Language Processing) system design
 
 5. **Access the application**:
    Open your browser and go to: `http://localhost:8501`
-
+   
 ---
 
 ## Contact
 
 For further information about **Lexora**, please reach out to the project creator via [LinkedIn](https://www.linkedin.com/in/ayush-mayekar-b9b883284).
-
 Thank you for exploring Lexora and contributing to its growth! 🤝
